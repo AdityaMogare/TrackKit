@@ -24,13 +24,13 @@ road prefabs ──1. Build Kit──▶ kit pieces ──3. Place Next──▶
 **Package Manager → + → Add package from git URL**, then paste:
 
 ```
-https://github.com/<your-username>/TrackKit.git
+https://github.com/AdityaMogare/TrackKit.git
 ```
 
 or add to `Packages/manifest.json`:
 
 ```json
-"com.adityamogare.trackkit": "https://github.com/<your-username>/TrackKit.git"
+"com.adityamogare.trackkit": "https://github.com/AdityaMogare/TrackKit.git"
 ```
 
 Pin a version with a tag: `...TrackKit.git#v0.1.0`.
