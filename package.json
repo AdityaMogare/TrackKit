@@ -1,0 +1,9 @@
+{
+  "name": "com.adityamogare.trackkit",
+  "version": "0.1.0",
+  "displayName": "TrackKit",
+  "description": "Modular race-track building on top of Prefab Builder: road pieces that carry their own sockets, walls, checkpoint and spawn markers; socket-to-socket Place Next; joint checking; and a Bake step that hands the ordered race data to a game-specific adapter.",
+  "unity": "2022.3",
+  "keywords": ["track", "racing", "level design", "prefab", "modular"],
+  "author": { "name": "Aditya Mogare" }
+}
